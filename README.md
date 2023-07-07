@@ -1,5 +1,6 @@
 ### Hi 👋 I'm Jonathan
 
+Excited to share my journey as a developer with you, I enjoy exploring new technologies and constantly seeking to expand my horizons.
 <!--
 **Goodtierrez/Goodtierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
